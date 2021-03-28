@@ -1,0 +1,2 @@
+# COVID-19-Outbreak-Analysis-Using-Data-Science
+We all know that coronavirus is spreading on a daily basis in India. So, let's try to visualise how fast it is spreading.  First, let's look at the dashboard created by Johns Hopkins University. You can look at the following live dashboard to see the real-time trend.  COVID-19 Live Dashboard  Now, let's create a similar map for India using Python to visualise the most affected states in India due to coronavirus.
